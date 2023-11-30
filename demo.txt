@@ -1,1 +1,3 @@
-Hi This is my line1 from f1 (pushed from f1)
+Hi This is my line1 from f1 (pushed from f1) (commit 1 for folder1 )
+
+Hi this is my line2 from demo_branch (pushed from f2)
