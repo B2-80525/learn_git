@@ -1,0 +1,3 @@
+Hi This is my line1 from f1 (pushed from f1)
+I am writing this line from f2 and pushing it on f2 after cloning f1
+
