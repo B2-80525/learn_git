@@ -1,1 +1,3 @@
 Hi This is my line1 from f1 (pushed from f1)
+
+Hi This is my line2 from f1 (pushed from f1)(commit 2)
